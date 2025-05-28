@@ -20,6 +20,11 @@ public interface NoUsePlayerConfig extends Config {
                 "poisoned egg, " +
                 "spiked/pois. egg, " +
                 "omega egg, " +
-                "old school bond";
+                "old school bond," + 
+                "healing vial(1)," +
+                "healing vial(2)," +
+                "healing vial(3)," +
+                "healing vial(4)," +
+                "scroll";
     }
 }
